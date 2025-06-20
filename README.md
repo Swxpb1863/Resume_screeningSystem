@@ -30,7 +30,7 @@ A detailed evaluation is returned including strengths, weaknesses, and final ver
 
 The system highlights how well a resume matches a job description, what skills are missing, and gives final screening thoughts.
 
-![Percentage Matching](./resume_match%.png)
+![Percentage Matching](./resume_match.png)
 
 ---
 
